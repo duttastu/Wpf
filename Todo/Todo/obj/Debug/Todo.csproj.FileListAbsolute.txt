@@ -1,0 +1,15 @@
+C:\Users\dutta\source\repos\udemy\Todo\Todo\bin\Debug\Todo.exe.config
+C:\Users\dutta\source\repos\udemy\Todo\Todo\bin\Debug\Todo.exe
+C:\Users\dutta\source\repos\udemy\Todo\Todo\bin\Debug\Todo.pdb
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\MainWindow.g.cs
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\App.g.cs
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo_MarkupCompile.cache
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo_MarkupCompile.lref
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\MainWindow.baml
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo.g.resources
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo.Properties.Resources.resources
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo.csproj.GenerateResource.cache
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo.exe
+C:\Users\dutta\source\repos\udemy\Todo\Todo\obj\Debug\Todo.pdb
